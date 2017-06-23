@@ -1,2 +1,2 @@
-# Snakes-and-Ladders_Simulation
-Copyright: Jiachang (Ernest) Xu
+# Chutes and Ladders
+Final Project for CSCI 201
